@@ -1,6 +1,6 @@
 # AcmResource - *Web Development*
 
-  A web application where users can share resources, post content and chat.
+  A web application where users can share resources, post content ( and optional chat ).
   
   ## Features
   
